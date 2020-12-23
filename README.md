@@ -2,7 +2,6 @@
 
 A full-stack web application to simulate pharmaceutical drug tracking use-case. To learn more on how the project works and how to run, refer to the UserManual pdf(for setup and run instructions) and Report pdf (for project guide).
 
-Tech Stack:
 
 Development Environment/Technology Involved:
 
